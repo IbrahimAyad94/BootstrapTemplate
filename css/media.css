@@ -1,0 +1,47 @@
+/* Ethernet dosen't hava a valid IP configuration */
+@media(max-width: 767px)
+{
+	.subscribe .btn {
+    		border-radius: 5px;
+    		margin-top: 20px;
+    		width: 100%;
+	}
+	.subscribe .form-control {
+   		 border-radius: 5px;
+    		 width: 100%;
+	}
+	.carousel {
+    		position: relative;
+    		display: none;
+	}
+
+	.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+  		  max-height: none;
+	}
+	.navbar-nav > li > a {
+   		 padding-top: 10px;
+   		 padding-bottom: 10px;
+   		 font-size: 18px;
+	}
+
+	.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus{
+		border-radius: 0;
+	}
+	.navbar-inverse .navbar-nav .open .dropdown-menu .divider {
+    		background-color: #2398db;
+	}
+
+}
+
+@media(min-width: 768px) and (max-width: 991px)
+{
+
+}
+@media(min-width: 992px) and (max-width: 1199px)
+{
+
+}
+@media(min-width: 1200px)
+{
+
+}

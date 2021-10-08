@@ -1,0 +1,42 @@
+.option-box .color-option{
+	border: 3px solid #4CAF50;
+}
+.option-box .color-option ul li{
+	
+	background-color: #4CAF50;
+
+}
+.option-box .gear-check{
+	background-color: #4CAF50;
+}
+.navbar-inverse .navbar-nav > .active > a,
+ .navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus { 	/* change Active */
+
+    	background-color: #4CAF50;
+
+}
+
+.dropdown-menu > li > a:hover{				/* hover on drop down */
+	background-color: #4CAF50;
+}
+.dropdown-menu .divider {				/* color on divider*/
+   	background-color: #4CAF50;
+}
+
+.navbar-brand span{
+	color:  #4CAF50; 				/* change color of brand span 'toto' */
+}
+
+.about span{						/* color of span about me section (Egypt)*/
+	color: #4CAF50;
+}
+.carousel-control {					/* control edit Next and Previous */
+	color: #4CAF50;
+}
+
+#s-top{
+	background-color: #4CAF50;
+	font-size: 30px;
+	border: 1px solid #4CAF50;
+}
